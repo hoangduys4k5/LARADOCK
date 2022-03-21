@@ -1,0 +1,23 @@
+ii  php-common                       2:92+ubuntu20.04.1+deb.sury.org+2                                  all          Common files for PHP packages
+ii  php-pear                         1:1.10.12+submodules+notgz+20210212-1+ubuntu20.04.1+deb.sury.org+1 all          PEAR Base System
+ii  php7.4-bcmath                    7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        Bcmath module for PHP
+ii  php7.4-cli                       7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        command-line interpreter for the PHP scripting language
+ii  php7.4-common                    7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        documentation, examples and common module for PHP
+ii  php7.4-curl                      7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        CURL module for PHP
+ii  php7.4-dev                       7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        Files for PHP7.4 module development
+ii  php7.4-gd                        7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        GD module for PHP
+ii  php7.4-igbinary                  3.2.6+2.0.8-6+ubuntu20.04.1+deb.sury.org+10                        amd64        igbinary PHP serializer
+ii  php7.4-intl                      7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        Internationalisation module for PHP
+ii  php7.4-json                      7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        JSON module for PHP
+ii  php7.4-mbstring                  7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        MBSTRING module for PHP
+ii  php7.4-memcached                 3.1.5+2.2.0-14+ubuntu20.04.1+deb.sury.org+10                       amd64        memcached extension module for PHP, uses libmemcached
+ii  php7.4-msgpack                   2.2.0~rc1+2.1.2+0.5.7-6+ubuntu20.04.1+deb.sury.org+10              amd64        PHP extension for interfacing with MessagePack
+ii  php7.4-mysql                     7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        MySQL module for PHP
+ii  php7.4-opcache                   7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        Zend OpCache module for PHP
+ii  php7.4-pgsql                     7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        PostgreSQL module for PHP
+ii  php7.4-readline                  7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        readline module for PHP
+ii  php7.4-redis                     5.3.6+4.3.0-1+ubuntu20.04.1+deb.sury.org+1                         amd64        PHP extension for interfacing with Redis
+ii  php7.4-sqlite3                   7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        SQLite3 module for PHP
+ii  php7.4-xml                       7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        DOM, SimpleXML, XML, and XSL module for PHP
+ii  php7.4-zip                       7.4.28-1+ubuntu20.04.1+deb.sury.org+1                              amd64        Zip module for PHP
+ii  pkg-php-tools                    1.38                                                               all          various packaging tools and scripts for PHP packages
